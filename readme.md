@@ -1,4 +1,4 @@
-# Omnifood - Frontend Project (Dockerized)
+# Omnifood - Frontend Project (Dockerized) by DataSense
 
 ## How to run
 

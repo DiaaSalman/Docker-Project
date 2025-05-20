@@ -16,7 +16,6 @@ docker build -t omnifood-frontend
 
 # Omnifood - Frontend Project (Dockerized) by DataSense
 # Omnifood - Frontend Project (Dockerized) by DataSense
-## How to run
 
 
 ```bash

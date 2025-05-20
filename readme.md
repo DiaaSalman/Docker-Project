@@ -1,3 +1,19 @@
+#AliDarwish 
+#Omnifood - Frontend Project
+PREREQUISITES:
+Make sure you have Git and Docker installed on your machine.
+To verify, run these in the terminal:
+git --version
+docker --version
+-----------------------------------------------------------
+STEP 1: Clone the project from GitHub
+git clone https://github.com/DiaaSalman/Docker-Project
+cd omnifood-frontend
+-----------------------------------------------------------
+STEP 2: Build the Docker image
+docker build -t omnifood-frontend
+-----------------------------------------------------------
+
 # Omnifood - Frontend Project (Dockerized) by DataSense
 # Omnifood - Frontend Project (Dockerized) by DataSense
 ## How to run
